@@ -16,3 +16,5 @@ pluginStore.rabbitMQ = plugins.registerAmqpPlugin;
 pluginStore.assert = plugins.registerAssertPlugin;
 pluginStore.websocket = plugins.registerWebsocketPlugin;
 pluginStore.xml = plugins.registerXmlPuglin;
+pluginStore.socketio = plugins.registerSocketIoPlugin;
+  

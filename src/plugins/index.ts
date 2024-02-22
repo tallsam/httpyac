@@ -12,4 +12,5 @@ export * from './mqtt';
 export * from './oauth2';
 export * from './amqp';
 export * from './websocket';
+export * from './socketio';
 export * from './xml';
